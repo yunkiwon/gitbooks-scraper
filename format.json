@@ -1,0 +1,395 @@
+{
+    "wallet-guide": {
+        "text": ""
+    },
+    "bep20-guide": {
+        "text": ""
+    },
+    "using-pancakeswap-without-centralized-exchanges": {
+        "text": ""
+    },
+    "connection-guide": {
+        "text": ""
+    },
+    "aptos-coin-guide": {
+        "text": ""
+    },
+    "cake-bridging-guide": {
+        "text": ""
+    },
+    "aptos-faq": {
+        "text": ""
+    },
+    "troubleshooting": {
+        "text": ""
+    },
+    "faq": {
+        "text": ""
+    },
+    "unsticking-a-transaction-stuck-as-pending-with-metamask": {
+        "text": ""
+    },
+    "binance-academy-guide": {
+        "text": ""
+    },
+    "business-partnerships": {
+        "text": ""
+    },
+    "nft-market-applications": {
+        "text": ""
+    },
+    "customer-support": {
+        "text": ""
+    },
+    "telegram": {
+        "text": ""
+    },
+    "pancakeswap-exchange": {
+        "text": "",
+        "trade": {
+            "text": ""
+        },
+        "trade-guide": {
+            "text": ""
+        },
+        "smart-router": {
+            "text": "",
+            "how-to-trade-using-smart-router": {
+                "text": ""
+            }
+        },
+        "pancakeswap-pools": {
+            "text": ""
+        },
+        "liquidity-guide": {
+            "text": ""
+        },
+        "market-maker-integration": {
+            "text": ""
+        },
+        "zap": {
+            "text": ""
+        },
+        "limit-orders": {
+            "text": "",
+            "limit-orders-faq": {
+                "text": ""
+            }
+        },
+        "perpetual-trading": {
+            "text": "",
+            "perpetuals-glossary": {
+                "text": ""
+            },
+            "what-is-perpetual-trading": {
+                "text": ""
+            },
+            "how-can-i-use-it": {
+                "text": ""
+            },
+            "perpetual-trading-faq": {
+                "text": ""
+            }
+        }
+    },
+    "stableswap": {
+        "text": "",
+        "how-to-stableswap": {
+            "text": ""
+        }
+    },
+    "yield-farming": {
+        "text": "",
+        "how-to-use-farms": {
+            "text": ""
+        },
+        "farming-on-aptos": {
+            "text": "",
+            "faq": {
+                "text": ""
+            }
+        },
+        "crosschain-farming": {
+            "text": "",
+            "faq": {
+                "text": ""
+            }
+        },
+        "bcake": {
+            "text": "",
+            "how-to-use-bcake": {
+                "text": ""
+            },
+            "faq": {
+                "text": ""
+            }
+        }
+    },
+    "syrup-pool": {
+        "text": "",
+        "new-cake-pool": {
+            "text": "",
+            "flexible-staking": {
+                "text": ""
+            },
+            "fixed-term-staking": {
+                "text": ""
+            },
+            "cake-syrup-pool-faq": {
+                "text": ""
+            }
+        },
+        "syrup-pool-guide": {
+            "text": "",
+            "syrup-pool-faq": {
+                "text": ""
+            }
+        },
+        "page-1": {
+            "text": ""
+        }
+    },
+    "lottery": {
+        "text": "",
+        "lottery-guide": {
+            "text": ""
+        },
+        "lottery-faq": {
+            "text": ""
+        },
+        "lottery-contract": {
+            "text": ""
+        }
+    },
+    "prediction": {
+        "text": "",
+        "prediction-guide": {
+            "text": ""
+        },
+        "prediction-faq": {
+            "text": ""
+        },
+        "prediction-troubleshooting": {
+            "text": ""
+        }
+    },
+    "pottery": {
+        "text": "",
+        "how-to-play-pottery": {
+            "text": ""
+        },
+        "pottery-faq": {
+            "text": ""
+        },
+        "pottery-update": {
+            "text": ""
+        }
+    },
+    "nft-market": {
+        "text": ""
+    },
+    "nft-profile-system": {
+        "text": "",
+        "profile-guide": {
+            "text": ""
+        },
+        "teams": {
+            "text": ""
+        }
+    },
+    "ifo-initial-farm-offering": {
+        "text": "",
+        "ifo-guide": {
+            "text": ""
+        },
+        "icake": {
+            "text": ""
+        },
+        "contract-details": {
+            "text": ""
+        }
+    },
+    "info": {
+        "text": "",
+        "pancakeswap-analytics": {
+            "text": ""
+        }
+    },
+    "voting": {
+        "text": "",
+        "voting-guide": {
+            "text": "",
+            "how-to-vote-with-safepal-wallet": {
+                "text": ""
+            }
+        },
+        "vcake": {
+            "text": ""
+        }
+    },
+    "pancakeswap-mini-program": {
+        "text": "",
+        "how-to-use-pancakeswap-mini-program": {
+            "text": ""
+        },
+        "mini-program-faq": {
+            "text": ""
+        },
+        "pancakeswap-cedefi-integration": {
+            "text": ""
+        }
+    },
+    "coming-soon": {
+        "text": ""
+    },
+    "cake": {
+        "text": "",
+        "cake-tokenomics": {
+            "text": ""
+        },
+        "controlling-cake-supply": {
+            "text": ""
+        }
+    },
+    "migration": {
+        "text": "",
+        "migrate-your-stakings": {
+            "text": ""
+        },
+        "masterchef-v2": {
+            "text": "",
+            "list-of-farms": {
+                "text": ""
+            }
+        },
+        "cake-syrup-pool": {
+            "text": ""
+        }
+    },
+    "contributing": {
+        "text": "",
+        "codebase-overview": {
+            "text": ""
+        }
+    },
+    "bug-bounty": {
+        "text": ""
+    },
+    "smart-contracts": {
+        "text": "",
+        "pancakeswap-exchange": {
+            "text": "",
+            "v2": {
+                "text": "",
+                "factory-v2": {
+                    "text": ""
+                },
+                "router-v2": {
+                    "text": ""
+                }
+            },
+            "stable-swap": {
+                "text": "",
+                "stableswap-pools": {
+                    "text": ""
+                }
+            },
+            "smart-router": {
+                "text": ""
+            }
+        },
+        "main-staking-masterchef-contract": {
+            "text": ""
+        },
+        "syrup-pools": {
+            "text": ""
+        },
+        "fixed-term-staking-cake-pool": {
+            "text": ""
+        },
+        "ifo": {
+            "text": ""
+        },
+        "prediction-v2": {
+            "text": ""
+        },
+        "lottery-v2": {
+            "text": ""
+        },
+        "pottery": {
+            "text": ""
+        },
+        "farm-booster-bcake": {
+            "text": ""
+        },
+        "ifo-commit-limit-icake": {
+            "text": ""
+        },
+        "cross-chain-farming": {
+            "text": ""
+        },
+        "cross-chain-cake-bridging": {
+            "text": ""
+        }
+    },
+    "smart-contracts-aptos": {
+        "text": "",
+        "pancakeswap-exchange": {
+            "text": "",
+            "v2": {
+                "text": "",
+                "swap-core-v2": {
+                    "text": ""
+                },
+                "router-v2": {
+                    "text": ""
+                }
+            }
+        },
+        "masterchef": {
+            "text": ""
+        },
+        "syrup-pools": {
+            "text": ""
+        },
+        "utils": {
+            "text": ""
+        }
+    },
+    "become-a-chef": {
+        "text": "",
+        "frontend-engineer": {
+            "text": ""
+        },
+        "solidity-engineer": {
+            "text": ""
+        },
+        "devops-engineer": {
+            "text": ""
+        }
+    },
+    "old-tokenomics": {
+        "text": "",
+        "cake-tokenomics-v1": {
+            "text": ""
+        },
+        "cake-tokenomics-v1-controlling-cake-supply": {
+            "text": ""
+        }
+    },
+    "how-to-use-farms-with-bscscan": {
+        "text": ""
+    },
+    "farms": {
+        "text": ""
+    },
+    "syrup-pools": {
+        "text": "",
+        "smartchefinitializable": {
+            "text": ""
+        },
+        "pooldeployer": {
+            "text": ""
+        }
+    }
+}

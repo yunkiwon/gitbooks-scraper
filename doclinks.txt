@@ -1,0 +1,152 @@
+{
+    {
+        name: "lido", 
+        link: "https://docs.lido.fi/" 
+        source: "gitbook"
+    }, 
+    {
+        name: "makerDAO",
+        link: "https://docs.makerdao.com/"
+        source: "gitbook"
+    }, 
+    {
+        name: "curve", 
+        link: "https://curve.readthedocs.io/"
+        source: "gitbook"
+    }, 
+    {
+        name: "aave", 
+        link: "https://docs.aave.com/hub/"
+        source: "gitbook"
+    }, 
+    {
+        name: "convex", 
+        link: "https://docs.convexfinance.com/convexfinance/"
+        source: "gitbook"
+    }, 
+    {
+        name: "uniswap"
+        link: "https://docs.uniswap.org/"
+        source: "docusaurus2"
+    }, 
+    {
+        name: "justlend", 
+        link: "https://docs.justlend.org/", 
+        source: "gitbook"
+    }, 
+    {
+        name: "pancakeswap", 
+        link: "https://docs.pancakeswap.finance/", 
+        source: "gitbook"
+    }, 
+    {
+        name: "instadapp", 
+        link: "https://docs.instadapp.io/", 
+        source: "gitbook"
+    }, 
+    {
+        name: "compound", 
+        link: "https://docs.compound.finance/", 
+        source: "gitbook"
+    }, 
+    {
+        name: "balancer", 
+        link: "https://docs.balancer.fi/", 
+        source: "gitbook"
+    }, 
+    {
+        name: "frax", 
+        link: "https://docs.frax.finance/", 
+        source: "gitbook"
+    }, 
+    {
+        name: "rocketpool", 
+        link: "https://docs.rocketpool.net/overview/", 
+        source: "githubpages"
+    }, 
+    {
+        name: "venus", 
+        link: "https://docs.venus.io/", 
+        source: "NA"
+    }, 
+    {
+       name: "sushi", 
+       link: "https://docs.sushi.com/", 
+       source: "gitbook" 
+    }, 
+    {
+        name: "liquity", 
+        link: "https://docs.liquity.org/", 
+        source: "gitbook"
+    }, 
+    {
+        name: "GMX",
+        link: "https://gmxio.gitbook.io/gmx/" 
+        source: "gitbook"
+    }, 
+    {
+        name: "Aura", 
+        link: "https://docs.aura.finance/", 
+        source: "gitbook"
+    }, 
+    {
+        name: "arrakis", 
+        link: "https://resources.arrakis.fi/", 
+        source: "gitbook"
+    }, 
+    {
+        name: "yearn", 
+        link: "https://docs.yearn.finance/", 
+        source: "NA"
+    }, 
+    {
+        name: "startgate", 
+        link: "https://stargateprotocol.gitbook.io/stargate/", 
+        source: "gitbook"
+    }, 
+    {
+        name: "synthetix", 
+        link: "https://docs.synthetix.io/synthetix-protocol/welcome-to-synthetix", 
+        source: "gitbook"
+    },
+    {
+        name: "dYdX", 
+        link: "https://dydxprotocol.github.io/v3-teacher", 
+        source: "NA"
+    }, 
+    {
+        name: "Alpaca", 
+        link: "https://docs.alpacafinance.org/", 
+        source: "gitbook"
+    }, 
+    {
+        name: "Beefy", 
+        link: "https://docs.beefy.finance/", 
+        source: "gitbook"
+    }, 
+    {
+        name: "Euler", 
+        link: "https://docs.euler.finance/developers/getting-started", 
+        source: "gitbook"
+    }, 
+    {
+        name: "Abracadabra" 
+        link: "https://abracadabramoney.gitbook.io/learn", 
+        source: "gitbook"
+    }, 
+    {
+        name: "benqi", 
+        link: "https://docs.benqi.fi/", 
+        source: "gitbook"
+    }, 
+    {
+        name: "morpho", 
+        link: "https://docs.morpho.xyz/start-here/homepage", 
+        source: "gitbook"
+    }, 
+    {
+        name: "synapse", 
+        link: "https://docs.synapseprotocol.com/", 
+        source: "gitbook"
+    }
+}
