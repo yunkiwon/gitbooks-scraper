@@ -11,6 +11,8 @@ import json
 
 class Gitbook: 
     links = []
+    def __init__(self) -> None:
+        pass
 
     def get_menu(url):
         print(url) 
@@ -60,7 +62,7 @@ class Gitbook:
             return reference_path.startswith(anchor_path) 
 
 
-        base = get_path(url)
+        # base = get_path(url)
         def expand(index=0):
             # we need to repetitively scrape and identify the buttons each recursive run because their positions change
             # as elements are clicked. 
@@ -121,6 +123,7 @@ class Gitbook:
             return result
 
 
+
         struct = build_url_dict(urls)
 
         def scrape(subdomain): 
@@ -143,8 +146,23 @@ class Gitbook:
                     route = prev + k + "/"
                     scrape_over_nested(v, func, route)
                 else: 
-                    d["text"] = func(prev) 
+                    d = func(prev) 
 
+
+        # def formatter(obj): 
+        #     temp = obj 
+        #     for k, v in temp.items(): 
+        #         if isinstance(v, dict) & len(v) > 1: 
+        #             v = formatter(v)
+        #             v["summary"] = v["text"]
+        #             v.pop("text", None)
+        #             return v 
+        #         elif isinstance(v, dict): 
+        #             temp[k] = v["text"]
+        #         else: 
+        #             return 
+        #     return temp 
+        
         scrape_over_nested(struct, scrape)
         driver.close()
         print(struct)
@@ -163,4 +181,4 @@ class Gitbook:
         text = anchor.text
         driver.close()
         return text
-
+    

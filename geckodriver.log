@@ -2362,3 +2362,65 @@ JavaScript warning: https://app.gitbook.com/public/app/chunks/chunk-U3UFOXHW.min
 JavaScript warning: https://app.gitbook.com/public/app/chunks/chunk-U3UFOXHW.min.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 1676581971791	Marionette	INFO	Stopped listening on port 54852
 1676587998699	Marionette	INFO	Stopped listening on port 62838
+1677114059278	geckodriver	INFO	Listening on 127.0.0.1:49795
+1677114059760	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49796" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/22/cdkh41td13d_clf199ky0jh40000gn/T/rust_mozprofileq9LN1C"
+1677114060519	Marionette	INFO	Marionette enabled
+1677114060801	Marionette	INFO	Listening on port 49802
+Read port: 49802
+WebDriver BiDi listening on ws://127.0.0.1:49796
+1677114061001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/22/cdkh41td13d_clf199ky0jh40000gn/T/rust_mozprofileq9LN1C/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49796/devtools/browser/6a9f3597-0a76-4d3a-815d-dd57053b1d31
+JavaScript warning: https://app.gitbook.com/public/app/chunks/chunk-IBWBNCLW.min.js, line 127: unreachable code after return statement
+JavaScript warning: https://app.gitbook.com/public/app/chunks/chunk-IBWBNCLW.min.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app.gitbook.com/public/app/chunks/chunk-6NDEF5KE.min.js, line 132: unreachable code after return statement
+JavaScript warning: https://app.gitbook.com/public/app/chunks/chunk-6NDEF5KE.min.js, line 15: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app.gitbook.com/public/app/chunks/chunk-6NDEF5KE.min.js, line 132: unreachable code after return statement
+JavaScript warning: https://app.gitbook.com/public/app/chunks/chunk-6NDEF5KE.min.js, line 15: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app.gitbook.com/public/app/chunks/chunk-6NDEF5KE.min.js, line 132: unreachable code after return statement
+JavaScript warning: https://app.gitbook.com/public/app/chunks/chunk-6NDEF5KE.min.js, line 15: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app.gitbook.com/public/app/chunks/chunk-6NDEF5KE.min.js, line 132: unreachable code after return statement
+JavaScript warning: https://app.gitbook.com/public/app/chunks/chunk-6NDEF5KE.min.js, line 15: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app.gitbook.com/public/app/chunks/chunk-6NDEF5KE.min.js, line 15: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app.gitbook.com/public/app/chunks/chunk-6NDEF5KE.min.js, line 15: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app.gitbook.com/public/app/chunks/chunk-6NDEF5KE.min.js, line 15: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app.gitbook.com/public/app/chunks/chunk-6NDEF5KE.min.js, line 15: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app.gitbook.com/public/app/chunks/chunk-6NDEF5KE.min.js, line 15: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app.gitbook.com/public/app/chunks/chunk-6NDEF5KE.min.js, line 15: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app.gitbook.com/public/app/chunks/chunk-6NDEF5KE.min.js, line 15: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app.gitbook.com/public/app/chunks/chunk-6NDEF5KE.min.js, line 15: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app.gitbook.com/public/app/chunks/chunk-6NDEF5KE.min.js, line 15: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app.gitbook.com/public/app/chunks/chunk-6NDEF5KE.min.js, line 15: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app.gitbook.com/public/app/chunks/chunk-6NDEF5KE.min.js, line 15: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app.gitbook.com/public/app/chunks/chunk-6NDEF5KE.min.js, line 15: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app.gitbook.com/public/app/chunks/chunk-6NDEF5KE.min.js, line 15: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app.gitbook.com/public/app/chunks/chunk-6NDEF5KE.min.js, line 15: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app.gitbook.com/public/app/chunks/chunk-6NDEF5KE.min.js, line 15: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app.gitbook.com/public/app/chunks/chunk-6NDEF5KE.min.js, line 15: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app.gitbook.com/public/app/chunks/chunk-6NDEF5KE.min.js, line 15: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app.gitbook.com/public/app/chunks/chunk-6NDEF5KE.min.js, line 15: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app.gitbook.com/public/app/chunks/chunk-6NDEF5KE.min.js, line 15: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app.gitbook.com/public/app/chunks/chunk-6NDEF5KE.min.js, line 15: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app.gitbook.com/public/app/chunks/chunk-6NDEF5KE.min.js, line 15: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app.gitbook.com/public/app/chunks/chunk-6NDEF5KE.min.js, line 15: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app.gitbook.com/public/app/chunks/chunk-6NDEF5KE.min.js, line 15: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app.gitbook.com/public/app/chunks/chunk-6NDEF5KE.min.js, line 15: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app.gitbook.com/public/app/chunks/chunk-6NDEF5KE.min.js, line 15: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app.gitbook.com/public/app/chunks/chunk-6NDEF5KE.min.js, line 15: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app.gitbook.com/public/app/chunks/chunk-6NDEF5KE.min.js, line 15: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app.gitbook.com/public/app/chunks/chunk-6NDEF5KE.min.js, line 15: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app.gitbook.com/public/app/chunks/chunk-6NDEF5KE.min.js, line 15: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app.gitbook.com/public/app/chunks/chunk-6NDEF5KE.min.js, line 15: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677114151182	Marionette	INFO	Stopped listening on port 49802
+1677177195837	geckodriver	INFO	Listening on 127.0.0.1:51771
+1677177196277	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51772" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/22/cdkh41td13d_clf199ky0jh40000gn/T/rust_mozprofileceq4mX"
+1677177197124	Marionette	INFO	Marionette enabled
+1677177197419	Marionette	INFO	Listening on port 51777
+Read port: 51777
+WebDriver BiDi listening on ws://127.0.0.1:51772
+1677177197606	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/22/cdkh41td13d_clf199ky0jh40000gn/T/rust_mozprofileceq4mX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51772/devtools/browser/46e1850d-59c4-430f-a379-15aab8b79a77
+JavaScript warning: https://app.gitbook.com/public/app/chunks/chunk-6NDEF5KE.min.js, line 132: unreachable code after return statement
+JavaScript warning: https://app.gitbook.com/public/app/chunks/chunk-6NDEF5KE.min.js, line 15: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677184158249	Marionette	INFO	Stopped listening on port 51777
